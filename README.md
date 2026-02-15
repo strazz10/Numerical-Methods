@@ -1,2 +1,2 @@
 # Numerical-Methods
-Code repository for the Computational Physics Lab course
+Code and Materials repository for the Computational Physics Lab course
